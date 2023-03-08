@@ -1,0 +1,44 @@
+.nav-enlace{
+    display: inline-block;
+    background-color: ;
+    color: rgb(5, 1, 1);
+    padding: 10px 30px ; 
+    text-decoration: none;
+}
+.nav-enlace:hover{
+   background-color: darkgray; 
+} 
+
+body{
+    background: url(harley-davidson-softail-628f7d5556e96.png);
+        margin: 0;
+    padding: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }    
+
+.p-intro{
+    color: black;
+    font-size: large;
+    column-count: 2;
+}
+.time-1{
+    color: black    ;
+}
+.titulo-1{
+    color: rgb(2, 29, 53);
+}
+
+.link-1 { 
+    text-decoration: none;
+ }
+ .piroca {
+    padding: 10px;
+    text-transform: uppercase;
+ }
+ .VAT{
+    text-decoration: none;
+ }
+ .secret{
+    opacity: 0;
+ }
